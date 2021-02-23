@@ -1,8 +1,11 @@
+<p align="center>
+<img src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif" width="80px">
+                                                                                                 </p>                                                                                    
 <p align:center>
   <img width=150% src = "./code.gif">
 </p>
 
-### Hi there 👋 <img src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif" width="50px">
+### Hi there 👋 
 
 <a href="https://twitter.com/MrHeapAllocator">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
