@@ -6,10 +6,10 @@
 
 <a href="https://twitter.com/MrHeapAllocator">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
- </a> <br />
+ </a> <br /> <br /> 
  <a href="https://www.linkedin.com/in/iparikshitdubey/">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a> <br />
+ </a> <br /> <br />
 
  <a>![visitors](https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer)</a>
  <br>
