@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on multiple Full-stack projects.
+- 🔭 I’m currently working on Kernel development.
 - 🌱 I’m currently learning JavaScript development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iparikshitdubey/) [Twitter](https://twitter.com/MrHeapAllocator)
 - 😄 Pronouns: he/him/his
