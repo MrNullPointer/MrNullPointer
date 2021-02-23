@@ -1,6 +1,8 @@
-<p align="center>
-<img src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif" width="80px">
-                                                                                                 </p>                                                                                    
+
+<p align:center>
+  <img align:center width=10% src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif" width="80px">
+</p> 
+ 
 <p align:center>
   <img width=150% src = "./code.gif">
 </p>
