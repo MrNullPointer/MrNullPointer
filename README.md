@@ -1,3 +1,7 @@
+<p align:center>
+  <img width=150% src = "./code.gif">
+</p>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on multiple Full-stack projects.
@@ -5,16 +9,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iparikshitdubey/) [Twitter](https://twitter.com/MrHeapAllocator)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a hardware designer too. 😉
-
-
-<p align:center>
-  <img width=150% src = "https://media.giphy.com/media/1rPY8XIGWozEhm215a/giphy.gif">
-</p>
-
-
-<p align:center>
-  <img width=150% src = "./code.gif">
-</p>
 
 <!---
 - 👯 I’m looking to collaborate on ...
