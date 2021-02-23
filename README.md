@@ -12,7 +12,7 @@
  </a> <br /> <br />
 
  <a>![visitors](https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer)</a>
- <a>![Visitors on Activity Monitor](https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.LinuxActivityMonitor)</a>
+ <a>![Visitors on Activity Monitor](https://visitor-badge.glitch.me/badge?page_id=LinuxActivityMonitor)</a>
  <br />
 
 - 🔭 I’m currently working on Kernel development.
