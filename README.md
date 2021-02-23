@@ -8,13 +8,12 @@
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
  </a>
  <a href="https://www.linkedin.com/in/iparikshitdubey/">
-   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <img align="center" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
-<CR>
+ <br>
 
 - 🔭 I’m currently working on Kernel development.
 - 🌱 I’m currently learning JavaScript development.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iparikshitdubey/) [Twitter](https://twitter.com/MrHeapAllocator)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a hardware designer too. 😉
 
