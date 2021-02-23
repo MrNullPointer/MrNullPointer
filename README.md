@@ -3,13 +3,14 @@
 </p>
 
 ### Hi there 👋
-
-<a href="https://twitter.com/sparshrestha">
+<p align:center>
+<a href="https://twitter.com/MrHeapAllocator">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
  </a>
- <a href="https://www.linkedin.com/in/sparshrestha/">
+ <a href="https://www.linkedin.com/in/iparikshitdubey/">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
+<p>
 
 - 🔭 I’m currently working on Kernel development.
 - 🌱 I’m currently learning JavaScript development.
