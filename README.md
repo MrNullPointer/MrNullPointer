@@ -18,7 +18,7 @@
  <br />
 
 - 🔭 I’m currently learning Kernel development.
-- 🌱 I’m currently working on my personal project <a>[OS One](https://github.com/MrNullPointer/OS-One)</a> and looking to collaborate, please feel free to shoot an              email if you are interested.
+- 🌱 I’m working on my personal project <a>[OS One](https://github.com/MrNullPointer/OS-One)</a> and looking to collaborate, please feel free to shoot an              email if you are interested.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a hardware designer too. 😉
 
