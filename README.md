@@ -4,7 +4,7 @@
 
 ### Hi there 👋 
 <a href="mailto:iparikshitdubey@gmail.com">
-<img width=3% src = "./email.png" />
+<img width=5% src = "./email.png" />
 </a> <br /> <br />
 
 <a href="https://twitter.com/MrHeapAllocator">
