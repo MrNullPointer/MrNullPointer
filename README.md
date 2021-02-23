@@ -11,6 +11,11 @@
   <img width=150% src = "https://media.giphy.com/media/1rPY8XIGWozEhm215a/giphy.gif">
 </p>
 
+
+<p align:center>
+  <img width=150% src = "./code.gif">
+</p>
+
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with .....
