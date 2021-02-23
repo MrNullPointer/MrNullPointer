@@ -11,6 +11,7 @@
    <img align="center" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
  <br>
+ <br>
 
 - 🔭 I’m currently working on Kernel development.
 - 🌱 I’m currently learning JavaScript development.
