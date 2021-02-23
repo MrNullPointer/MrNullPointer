@@ -3,8 +3,9 @@
 </p>
 
 ### Hi there 👋 
-
-<img width=3% src = "./email.png"> [Collaborate with me](mailto:iparikshitdubey@gmail.com)
+<a href="mailto:iparikshitdubey@gmail.com">
+<img width=3% src = "./email.png" />
+</a> <br /> <br />
 
 <a href="https://twitter.com/MrHeapAllocator">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
