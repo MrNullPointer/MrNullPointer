@@ -10,7 +10,7 @@
  <a href="https://www.linkedin.com/in/iparikshitdubey/">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
-<p>
+</p>
 
 <p>
 - 🔭 I’m currently working on Kernel development.
@@ -18,7 +18,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iparikshitdubey/) [Twitter](https://twitter.com/MrHeapAllocator)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a hardware designer too. 😉
-<p>
+</p>
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with .....
