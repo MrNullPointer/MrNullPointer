@@ -10,7 +10,7 @@
  <a href="https://www.linkedin.com/in/iparikshitdubey/">
    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
-
+<CR>
 
 - 🔭 I’m currently working on Kernel development.
 - 🌱 I’m currently learning JavaScript development.
