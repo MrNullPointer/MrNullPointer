@@ -1,8 +1,3 @@
-
-<p align:center>
-  <img align:center width=10% src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif" width="80px">
-</p> 
- 
 <p align:center>
   <img width=150% src = "./code.gif">
 </p>
@@ -19,8 +14,8 @@
  <a>![visitors](https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer)</a>
  <br />
 
-- 🔭 I’m currently working on Kernel development.
-- 🌱 I’m currently learning JavaScript development.
+- 🔭 I’m currently learning Kernel development.
+- 🌱 I’m currently working on my personal project <a>[OS One](https://github.com/MrNullPointer/OS-One)</a>.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a hardware designer too. 😉
 
