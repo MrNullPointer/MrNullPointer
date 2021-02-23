@@ -12,7 +12,7 @@
  </a> <br /> <br />
 
  <a>![visitors](https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer)</a>
- <br>
+ <br />
 
 - 🔭 I’m currently working on Kernel development.
 - 🌱 I’m currently learning JavaScript development.
