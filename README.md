@@ -10,13 +10,9 @@
  <a href="https://www.linkedin.com/in/iparikshitdubey/">
    <img align="center" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
- 
- <br>
- 
+
  <a>![visitors](https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer)</a>
- 
- <br />
- 
+ <br>
 
 - 🔭 I’m currently working on Kernel development.
 - 🌱 I’m currently learning JavaScript development.
