@@ -1,29 +1,46 @@
-<p align:center>
-  <img width=150% src = "./code.gif">
+<p align="center"><img width="100%" src="./code.gif"></p>
+
+<h1 align="center">Hey, I'm Rishi 👋</h1>
+<h3 align="center">Perpetual learner · HW–SW co-design enthusiast · first-principles fan</h3>
+
+<p align="center">
+<a href="mailto:iparikshitdubey@gmail.com"><img width="5%" src="./email.png" /></a>
+&nbsp;
+<a href="https://twitter.com/MrHeapAllocator"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/iparikshitdubey/"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 </p>
 
-### Hi there 👋 
-<a href="mailto:iparikshitdubey@gmail.com">
-<img width=5% src = "./email.png" />
-</a> <br /> <br />
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer" /></p>
 
-<a href="https://twitter.com/MrHeapAllocator">
-   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
- </a> <br /> <br /> 
- <a href="https://www.linkedin.com/in/iparikshitdubey/">
-   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a> <br /> <br />
- 
- <a>![visitors](https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer)</a>
- <br />
+---
 
-- 🔭 I’m currently learning Kernel development.
-- 🌱 I’m working on my personal project <a>[OS One](https://github.com/MrNullPointer/OS-One)</a> and looking to collaborate, please feel free to shoot an              email if you are interested.
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a hardware designer too. 😉
+### 🧠 About me
 
-<!---
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with .....
-- 💬 Ask me about ...  
---->
+I'm in full-time **learn mode** — chasing that sweet spot where hardware and software meet and argue with each other. My favorite conversations start with *"why does this constraint even exist?"* and don't end until we hit a physical law or a caffeine shortage.
+
+📍 Based in **San Diego, California** 🌊☀️ — where the waves roll in predictably but my bugs do not.
+
+### 🛠️ What I'm messing with
+
+- 🔗 **HW–Software co-design** — because the fastest software is the one that knows what silicon it's running on
+- 🧩 Crawling through the **Linux kernel**, one subsystem at a time
+- 🖥️ Building [**OS One**](https://github.com/MrNullPointer/OS-One) — my toy OS, in Assembly, because some lessons only stick at the metal
+- 📚 Reading more papers than I probably should
+
+### 🎯 Current obsessions
+
+Memory hierarchies · cache coherence · compiler ↔ microarchitecture contracts · any place where a latency budget meets a power budget and they have to negotiate.
+
+### 🧪 Fun facts
+
+- 🪜 I think in "Layered Ladders" — electrons → transistors → ISAs → kernels → apps. It's all one stack if you squint.
+- 🐛 My favorite bugs only reproduce on real hardware and vanish under a debugger (Heisenbugs, obviously)
+- ☕ I treat coffee as a scheduling primitive
+- 🎧 Best kernel debugging happens at 2am with lo-fi beats
+
+### 💬 Let's talk
+
+If you're into OS internals, compilers, accelerators, or anywhere the abstractions leak — drop me an email. I read every one.
+
+<p align="center"><i>"All abstractions leak. The good ones leak politely."</i></p>
