@@ -3,15 +3,6 @@
 <h1 align="center">Hey, I'm Rishi 👋</h1>
 <h3 align="center">Perpetual learner · HW–SW co-design enthusiast · first-principles fan</h3>
 
-<p align="center">
-<a href="mailto:iparikshitdubey@gmail.com"><img width="5%" src="./email.png" /></a>
-&nbsp;
-<a href="https://twitter.com/MrHeapAllocator"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/iparikshitdubey/"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-</p>
-
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=mrnullpointer.mrnullpointer" /></p>
 
 ---
 
@@ -25,7 +16,6 @@ I'm in full-time **learn mode** — chasing that sweet spot where hardware and s
 
 - 🔗 **HW–Software co-design** — because the fastest software is the one that knows what silicon it's running on
 - 🧩 Crawling through the **Linux kernel**, one subsystem at a time
-- 🖥️ Building [**OS One**](https://github.com/MrNullPointer/OS-One) — my toy OS, in Assembly, because some lessons only stick at the metal
 - 📚 Reading more papers than I probably should
 
 ### 🎯 Current obsessions
