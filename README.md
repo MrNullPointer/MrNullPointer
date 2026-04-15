@@ -1,6 +1,6 @@
 <p align="center"><img width="100%" src="./code.gif"></p>
 
-<h1 align="center">Hey, I'm Rishi 👋</h1>
+<h1 align="center">Hey, I'm Parikshit 👋</h1>
 <h3 align="center">Perpetual learner · HW–SW co-design enthusiast · first-principles fan</h3>
 
 
